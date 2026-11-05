@@ -5,8 +5,8 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/ankurvats/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.youtube.com/@the_ImmerSecGuy"><img src="https://img.shields.io/badge/YouTube-The_ImmerSec_Guy-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube: The ImmerSec Guy"></a>
-  <a href="mailto:vats.ankur452@gmail.com"><img src="https://img.shields.io/badge/Email-vats.ankur452%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <img src="https://img.shields.io/badge/Based%20in-Gurugram%2C%20India-00e5a0?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Gurugram, India">
+  <a href="mailto:ankurvats.sec@gmail.com"><img src="https://img.shields.io/badge/Email-ankurvats.sec%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <img src="https://img.shields.io/badge/Based%20in-Boston%2C%20Massachusetts%2C%20USA-00e5a0?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Boston, Massachusetts, USA">
 </p>
 
 ---
@@ -90,7 +90,7 @@ ask_me_about: AD attack paths, API security, bridging pentest findings to GRC
 ### 🤝 Let's connect
 
 Open to conversations about **offensive security, AppSec in financial services, and AI security**.
-The fastest way to reach me is [LinkedIn](https://www.linkedin.com/in/ankurvats/) or [email](mailto:vats.ankur452@gmail.com).
+The fastest way to reach me is [LinkedIn](https://www.linkedin.com/in/ankurvats/) or [email](mailto:ankurvats.sec@gmail.com).
 
 <p align="center">
   <sub>⚖️ Everything I publish here is for education and authorised testing only.</sub>
