@@ -66,15 +66,25 @@ ask_me_about: AD attack paths, API security, bridging pentest findings to GRC
 
 ### 🏅 Certifications
 
-| Certification | Issuer | Status |
-|---|---|---|
-| **CISM**: Certified Information Security Manager | ISACA | ✅ Active |
-| **CISA**: Certified Information Systems Auditor | ISACA | ✅ Active |
-| **AZ-900**: Microsoft Azure Fundamentals | Microsoft | ✅ Active |
-| **CRTP**: Certified Red Team Professional | Altered Security | Earned |
-| **ECSA**: EC-Council Certified Security Analyst | EC-Council | Earned |
-| **CEH**: Certified Ethical Hacker | EC-Council | Earned |
-| **OSCP**: OffSec Certified Professional | OffSec | 🔄 In progress |
+<p>
+  <img src="https://img.shields.io/badge/CISM-ISACA-005EB8?style=for-the-badge" alt="CISM">
+  <img src="https://img.shields.io/badge/CISA-ISACA-005EB8?style=for-the-badge" alt="CISA">
+  <img src="https://img.shields.io/badge/CRTP-Red_Team-B22222?style=for-the-badge" alt="CRTP">
+  <img src="https://img.shields.io/badge/Azure-Fundamentals-0078D4?style=for-the-badge" alt="Azure Fundamentals">
+</p>
+
+| Area | Certification | Issuer | Year |
+|---|---|---|---|
+| 🛡️ **Governance & audit** | **CISM**: Certified Information Security Manager | ISACA | ✅ Active |
+| | **CISA**: Certified Information Systems Auditor | ISACA | ✅ Active |
+| ⚔️ **Offensive security** | **CRTP**: Certified Red Team Professional | Pentester Academy | 2021 |
+| | **ECSA**: Certified Security Analyst (Penetration Testing) | EC-Council | 2019 |
+| | **CEH**: Certified Ethical Hacker | EC-Council | Earned |
+| | **OSCP**: OffSec Certified Professional | OffSec | 🔄 In progress |
+| ☁️ **Cloud** | **Microsoft Certified: Azure Fundamentals** | Microsoft | 2025 |
+| | **OCI Foundations Associate** | Oracle | 2020 |
+| 🔎 **Defense & monitoring** | **CNSS**: Certified Network Security Specialist | ICSI | 2020 |
+| | **IBM QRadar SIEM Foundation** | IBM | 2017 |
 
 ---
 
