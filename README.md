@@ -13,13 +13,13 @@
 
 ### 👋 Hi, I'm Ankur
 
-I'm an **Offensive Security Engineer** with **10+ years in security**, most of it protecting **financial services**, where a single missed finding can mean real money and regulatory pain.
+I'm an **Offensive Security Engineer** with **10+ years in security**, split between **in-house FinTech / financial services**, where a single missed finding can mean real money and regulatory pain, and **security consulting**, where I've run engagements for clients across many industries.
 
-I break things on purpose so attackers can't do it for real: web apps and APIs, Active Directory, internal networks and cloud. Then I help teams fix the root cause, not just the symptom. My **CISA** and **CISM** background means I can speak to both the engineer fixing the bug and the auditor asking about the control.
+I break things on purpose so attackers can't do it for real: web apps and APIs, Active Directory, internal networks and cloud. Then I help teams fix the root cause, not just the symptom. Consulting taught me to scope fast, work inside tight rules of engagement and write reports that executives and engineers can both act on. My **CISA** and **CISM** background means I can speak to both the engineer fixing the bug and the auditor asking about the control.
 
 ```yaml
 focus:        [penetration testing, red teaming, application security]
-industry:     financial services / FinTech
+experience:   [FinTech / financial services, security consulting]
 currently:    sharpening OSCP-style tradecraft and studying AI / LLM security
 side_quests:  designing CTF challenges (2021 – 2024)
 ask_me_about: AD attack paths, API security, bridging pentest findings to GRC
@@ -35,6 +35,7 @@ ask_me_about: AD attack paths, API security, bridging pentest findings to GRC
 | 🏰 **Active Directory** | Enumeration, Kerberos attacks, ACL abuse, lateral movement, domain-dominance paths |
 | 🌐 **Network & infrastructure** | Internal / external pentests, service exploitation, privilege escalation (Windows & Linux) |
 | ☁️ **Cloud & containers** | Azure and AWS misconfigurations, IAM attack paths, Docker / Kubernetes reviews |
+| 💼 **Security consulting** | Scoping and leading client engagements, clear reporting, remediation guidance and retesting |
 | 🧩 **Security governance** | Turning technical findings into risk language for audit, compliance and leadership |
 | 🤖 **AI security (learning)** | Prompt injection, LLM application threats, ML fundamentals |
 
@@ -99,7 +100,7 @@ ask_me_about: AD attack paths, API security, bridging pentest findings to GRC
 
 ### 🤝 Let's connect
 
-Open to conversations about **offensive security, AppSec in financial services, and AI security**.
+Open to conversations about **offensive security, security consulting, AppSec in financial services, and AI security**.
 The fastest way to reach me is [LinkedIn](https://www.linkedin.com/in/ankurvats/) or [email](mailto:ankurvats.sec@gmail.com).
 
 <p align="center">
