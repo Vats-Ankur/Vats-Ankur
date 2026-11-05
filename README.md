@@ -21,7 +21,7 @@ I break things on purpose so attackers can't do it for real: web apps and APIs, 
 focus:        [penetration testing, red teaming, application security]
 experience:   [FinTech / financial services, security consulting]
 currently:    sharpening OSCP-style tradecraft and studying AI / LLM security
-side_quests:  designing CTF challenges (2021 – 2025)
+side_quests:  designing CTF challenges (2020 – 2025)
 ask_me_about: AD attack paths, API security, bridging pentest findings to GRC
 ```
 
@@ -43,15 +43,16 @@ ask_me_about: AD attack paths, API security, bridging pentest findings to GRC
 
 ### 🚩 CTF challenges I've designed
 
-Since 2021 I've written original challenges for live Capture The Flag events, each built around one real-world weakness and shipped as a Flask app, C binary or Docker lab.
+Since 2020 I've written original challenges for live Capture The Flag events, each built around one real-world weakness and shipped as a Flask app, C binary or Docker lab.
 
 | Year | Challenges | Categories |
 |:-:|---|---|
 | **2025** 🆕 | **The Perrin–Woods Confection** (300 pts): a "recipe" puzzle where number sequences, modular arithmetic and layered encoding hide the flag | Cryptography |
-| **2024** | analyze_me · crack_me | Cryptanalysis service, reverse engineering |
+| **2024** | analyze_me · crack_me · inspect_me · fun_with_me | Cryptanalysis service, reverse engineering, exfiltration forensics, esoteric code |
 | **2023** | Linux buffer overflow · reverse engineering · network analyser · compression · CORS | Binary exploitation, RE, forensics, web |
 | **2022** | portal-manager · container-security · SOP · packet analysis | Path traversal, command injection, same-origin policy, forensics |
 | **2021** | CVE-2021-41773 · Solr injection · secret_agent · Greetings · fruit_basket | Real-CVE labs, web logic |
+| **2020** | Solr injection (first edition) | Weak credentials, exposed Apache Solr |
 
 ---
 
