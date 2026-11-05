@@ -41,6 +41,14 @@ ask_me_about: AD attack paths, API security, bridging pentest findings to GRC
 
 ---
 
+### 📊 My work in numbers
+
+<p align="center">
+  <img src="assets/tech-stack.svg" alt="Tech stack: 21 CTF challenges by category, technologies I build with, and a 2019 to 2026 build timeline" width="100%">
+</p>
+
+---
+
 ### 🚩 CTF challenges I've designed
 
 Since 2020 I've written original challenges for live Capture The Flag events, each built around one real-world weakness and shipped as a Flask app, C binary or Docker lab.

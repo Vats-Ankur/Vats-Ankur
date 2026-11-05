@@ -1,0 +1,147 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="540" viewBox="0 0 900 540" role="img" aria-label="Ankur Vats tech stack: CTF challenges by category, technologies used, and a 2019 to 2026 build timeline">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070b16"/>
+      <stop offset="0.6" stop-color="#0d1530"/>
+      <stop offset="1" stop-color="#131a3a"/>
+    </linearGradient>
+    <linearGradient id="gGreen" x1="0" x2="1"><stop offset="0" stop-color="#00e5a0"/><stop offset="1" stop-color="#7cf5c9"/></linearGradient>
+    <linearGradient id="gBlue" x1="0" x2="1"><stop offset="0" stop-color="#5cc8ff"/><stop offset="1" stop-color="#9adcff"/></linearGradient>
+    <linearGradient id="gPurple" x1="0" x2="1"><stop offset="0" stop-color="#c792ea"/><stop offset="1" stop-color="#dcb6f5"/></linearGradient>
+    <linearGradient id="gAmber" x1="0" x2="1"><stop offset="0" stop-color="#ffb547"/><stop offset="1" stop-color="#ffd08a"/></linearGradient>
+    <linearGradient id="gRed" x1="0" x2="1"><stop offset="0" stop-color="#ff5f7e"/><stop offset="1" stop-color="#ff9cb0"/></linearGradient>
+    <linearGradient id="line" x1="0" x2="1"><stop offset="0" stop-color="#00e5a0"/><stop offset="0.5" stop-color="#5cc8ff"/><stop offset="1" stop-color="#c792ea"/></linearGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M30 0H0V30" fill="none" stroke="#1d2a4d" stroke-width="0.6" opacity="0.5"/>
+    </pattern>
+    <style>
+      .mono { font-family: Consolas, 'Courier New', monospace; }
+      .sans { font-family: 'Segoe UI', Helvetica, Arial, sans-serif; }
+      .h { font-size: 15px; font-weight: 600; fill: #e6edf3; }
+      .sub { font-size: 11px; fill: #8b98b5; }
+      .lbl { font-size: 13px; fill: #c9d4e8; }
+      .val { font-size: 12px; fill: #e6edf3; font-weight: 600; }
+      .unit { font-size: 11px; fill: #8b98b5; }
+      .yr { font-size: 13px; font-weight: 700; fill: #e6edf3; }
+      .ev { font-size: 10.5px; fill: #a8b5cf; }
+      .track { fill: #1a2446; }
+      .panel { fill: #0b1226; fill-opacity: 0.75; stroke: #1d2a4d; stroke-width: 1; }
+    </style>
+  </defs>
+
+  <rect width="900" height="540" rx="14" fill="url(#bg)"/>
+  <rect width="900" height="540" rx="14" fill="url(#grid)"/>
+
+  <!-- Header -->
+  <text x="30" y="40" class="mono" font-size="15" fill="#00e5a0">$ ./tech-stack --from-repos</text>
+  <rect x="263" y="28" width="9" height="16" fill="#00e5a0">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+  <text x="870" y="40" class="mono sub" text-anchor="end">21 CTF challenges · 6 seasons · 2019 → 2026</text>
+
+  <!-- Panel A: CTF challenges by category -->
+  <rect x="30" y="62" width="410" height="262" rx="10" class="panel"/>
+  <text x="50" y="92" class="sans h">🚩 CTF challenges I built, by category</text>
+  <text x="50" y="110" class="sans sub">Original challenges for live CTF events, 2020 – 2025</text>
+
+  <g class="sans">
+    <text x="50" y="148" class="lbl">Web exploitation</text>
+    <rect x="190" y="136" width="200" height="16" rx="8" class="track"/>
+    <rect x="190" y="136" width="200" height="16" rx="8" fill="url(#gGreen)"><animate attributeName="width" from="0" to="200" dur="1.2s" begin="0.2s" fill="freeze"/></rect>
+    <text x="400" y="149" class="val">11</text>
+
+    <text x="50" y="186" class="lbl">Forensics</text>
+    <rect x="190" y="174" width="200" height="16" rx="8" class="track"/>
+    <rect x="190" y="174" width="73" height="16" rx="8" fill="url(#gBlue)"><animate attributeName="width" from="0" to="73" dur="1.2s" begin="0.4s" fill="freeze"/></rect>
+    <text x="400" y="187" class="val">4</text>
+
+    <text x="50" y="224" class="lbl">Cryptography</text>
+    <rect x="190" y="212" width="200" height="16" rx="8" class="track"/>
+    <rect x="190" y="212" width="55" height="16" rx="8" fill="url(#gPurple)"><animate attributeName="width" from="0" to="55" dur="1.2s" begin="0.6s" fill="freeze"/></rect>
+    <text x="400" y="225" class="val">3</text>
+
+    <text x="50" y="262" class="lbl">Reverse engineering</text>
+    <rect x="190" y="250" width="200" height="16" rx="8" class="track"/>
+    <rect x="190" y="250" width="36" height="16" rx="8" fill="url(#gAmber)"><animate attributeName="width" from="0" to="36" dur="1.2s" begin="0.8s" fill="freeze"/></rect>
+    <text x="400" y="263" class="val">2</text>
+
+    <text x="50" y="300" class="lbl">Binary exploitation</text>
+    <rect x="190" y="288" width="200" height="16" rx="8" class="track"/>
+    <rect x="190" y="288" width="18" height="16" rx="8" fill="url(#gRed)"><animate attributeName="width" from="0" to="18" dur="1.2s" begin="1s" fill="freeze"/></rect>
+    <text x="400" y="301" class="val">1</text>
+  </g>
+
+  <!-- Panel B: Built with -->
+  <rect x="460" y="62" width="410" height="262" rx="10" class="panel"/>
+  <text x="480" y="92" class="sans h">🛠️ What I build with</text>
+  <text x="480" y="110" class="sans sub">Counted from my own challenges, labs and tools</text>
+
+  <g class="sans">
+    <text x="480" y="142" class="lbl">Python</text>
+    <rect x="580" y="131" width="150" height="12" rx="6" class="track"/>
+    <rect x="580" y="131" width="150" height="12" rx="6" fill="url(#gGreen)"><animate attributeName="width" from="0" to="150" dur="1.2s" begin="0.3s" fill="freeze"/></rect>
+    <text x="742" y="142" class="val">15 <tspan class="unit">challenges</tspan></text>
+
+    <text x="480" y="170" class="lbl">Bash</text>
+    <rect x="580" y="159" width="150" height="12" rx="6" class="track"/>
+    <rect x="580" y="159" width="130" height="12" rx="6" fill="url(#gGreen)"><animate attributeName="width" from="0" to="130" dur="1.2s" begin="0.45s" fill="freeze"/></rect>
+    <text x="742" y="170" class="val">13 <tspan class="unit">scripts</tspan></text>
+
+    <text x="480" y="198" class="lbl">Flask</text>
+    <rect x="580" y="187" width="150" height="12" rx="6" class="track"/>
+    <rect x="580" y="187" width="100" height="12" rx="6" fill="url(#gBlue)"><animate attributeName="width" from="0" to="100" dur="1.2s" begin="0.6s" fill="freeze"/></rect>
+    <text x="742" y="198" class="val">10 <tspan class="unit">web apps</tspan></text>
+
+    <text x="480" y="226" class="lbl">Docker</text>
+    <rect x="580" y="215" width="150" height="12" rx="6" class="track"/>
+    <rect x="580" y="215" width="60" height="12" rx="6" fill="url(#gBlue)"><animate attributeName="width" from="0" to="60" dur="1.2s" begin="0.75s" fill="freeze"/></rect>
+    <text x="742" y="226" class="val">6 <tspan class="unit">deployable labs</tspan></text>
+
+    <text x="480" y="254" class="lbl">C / C++</text>
+    <rect x="580" y="243" width="150" height="12" rx="6" class="track"/>
+    <rect x="580" y="243" width="50" height="12" rx="6" fill="url(#gPurple)"><animate attributeName="width" from="0" to="50" dur="1.2s" begin="0.9s" fill="freeze"/></rect>
+    <text x="742" y="254" class="val">5 <tspan class="unit">binaries</tspan></text>
+
+    <text x="480" y="282" class="lbl">JavaScript</text>
+    <rect x="580" y="271" width="150" height="12" rx="6" class="track"/>
+    <rect x="580" y="271" width="20" height="12" rx="6" fill="url(#gAmber)"><animate attributeName="width" from="0" to="20" dur="1.2s" begin="1.05s" fill="freeze"/></rect>
+    <text x="742" y="282" class="val">2 <tspan class="unit">projects</tspan></text>
+
+    <text x="480" y="310" class="lbl">PowerShell</text>
+    <rect x="580" y="299" width="150" height="12" rx="6" class="track"/>
+    <rect x="580" y="299" width="20" height="12" rx="6" fill="url(#gAmber)"><animate attributeName="width" from="0" to="20" dur="1.2s" begin="1.2s" fill="freeze"/></rect>
+    <text x="742" y="310" class="val">2 <tspan class="unit">automation tools</tspan></text>
+  </g>
+
+  <!-- Panel C: Timeline -->
+  <rect x="30" y="344" width="840" height="170" rx="10" class="panel"/>
+  <text x="50" y="374" class="sans h">🧭 Build timeline</text>
+  <text x="870" y="374" class="sans sub" text-anchor="end" dx="-20">From lab experiments to a full CTF portfolio</text>
+
+  <line x1="80" y1="420" x2="820" y2="420" stroke="#1a2446" stroke-width="4" stroke-linecap="round"/>
+  <line x1="80" y1="420" x2="820" y2="420" stroke="url(#line)" stroke-width="4" stroke-linecap="round" stroke-dasharray="740" stroke-dashoffset="740">
+    <animate attributeName="stroke-dashoffset" from="740" to="0" dur="2.4s" begin="0.3s" fill="freeze"/>
+  </line>
+
+  <g class="sans" text-anchor="middle">
+    <g><circle cx="80" cy="420" r="7" fill="#070b16" stroke="#00e5a0" stroke-width="3"/>
+      <text x="80" y="402" class="yr">2019</text><text x="80" y="446" class="ev">Exploit lab</text><text x="80" y="460" class="ev">Bash · Containers</text></g>
+    <g><circle cx="186" cy="420" r="7" fill="#070b16" stroke="#00e5a0" stroke-width="3"/>
+      <text x="186" y="402" class="yr">2020</text><text x="186" y="446" class="ev">First CTF build</text><text x="186" y="460" class="ev">Test checklists</text></g>
+    <g><circle cx="292" cy="420" r="7" fill="#070b16" stroke="#2de0c8" stroke-width="3"/>
+      <text x="292" y="402" class="yr">2021</text><text x="292" y="446" class="ev">Real-CVE labs</text><text x="292" y="460" class="ev">6 challenges</text></g>
+    <g><circle cx="398" cy="420" r="7" fill="#070b16" stroke="#5cc8ff" stroke-width="3"/>
+      <text x="398" y="402" class="yr">2022</text><text x="398" y="446" class="ev">Container &amp;</text><text x="398" y="460" class="ev">web labs</text></g>
+    <g><circle cx="504" cy="420" r="7" fill="#070b16" stroke="#5cc8ff" stroke-width="3"/>
+      <text x="504" y="402" class="yr">2023</text><text x="504" y="446" class="ev">Binary exploit</text><text x="504" y="460" class="ev">&amp; forensics</text></g>
+    <g><circle cx="610" cy="420" r="7" fill="#070b16" stroke="#9adcff" stroke-width="3"/>
+      <text x="610" y="402" class="yr">2024</text><text x="610" y="446" class="ev">RE · Crypto</text><text x="610" y="460" class="ev">Web games</text></g>
+    <g><circle cx="716" cy="420" r="7" fill="#070b16" stroke="#c792ea" stroke-width="3"/>
+      <text x="716" y="402" class="yr">2025</text><text x="716" y="446" class="ev">Perrin–Woods</text><text x="716" y="460" class="ev">crypto puzzle</text></g>
+    <g><circle cx="820" cy="420" r="7" fill="#c792ea">
+        <animate attributeName="r" values="6;9;6" dur="1.6s" repeatCount="indefinite"/></circle>
+      <text x="820" y="402" class="yr" fill="#dcb6f5">2026</text><text x="820" y="446" class="ev">Knowledge base</text><text x="820" y="460" class="ev">AI / LLM security</text></g>
+  </g>
+
+  <text x="450" y="498" class="mono" font-size="10.5" fill="#5d6b8a" text-anchor="middle">source: my GitHub repositories · CTF-challenges · labs · automation tools</text>
+</svg>
