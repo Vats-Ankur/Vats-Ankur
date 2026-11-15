@@ -13,7 +13,7 @@
 
 ### 👋 Hi, I'm Ankur
 
-I'm an **Offensive Security Engineer** with **10+ years in security**, split between **in-house FinTech / financial services**, where a single missed finding can mean real money and regulatory pain, and **security consulting**, where I've run engagements for clients across many industries.
+I'm an **Offensive Security Engineer** with **14+ years in security**, split between **in-house FinTech / financial services**, where a single missed finding can mean real money and regulatory pain, and **security consulting**, where I've run engagements for clients across many industries.
 
 I break things on purpose so attackers can't do it for real: web apps and APIs, Active Directory, internal networks and cloud. Then I help teams fix the root cause, not just the symptom. Consulting taught me to scope fast, work inside tight rules of engagement and write reports that executives and engineers can both act on. My **CISA** and **CISM** background means I can speak to both the engineer fixing the bug and the auditor asking about the control.
 
