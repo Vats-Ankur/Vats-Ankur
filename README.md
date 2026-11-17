@@ -9,25 +9,46 @@
   <img src="https://img.shields.io/badge/Based%20in-Boston%2C%20Massachusetts%2C%20USA-00e5a0?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Boston, Massachusetts, USA">
 </p>
 
----
+<p align="center">
+  <img src="assets/hud.svg" alt="14+ years in security · FinTech + security consulting · 21 CTF challenges built · 9 certifications" width="100%">
+</p>
 
-### 👋 Hi, I'm Ankur
+<p align="center">
+  <b>
+  <a href="#-01--about-me">01 About</a> &nbsp;·&nbsp;
+  <a href="#-02--what-i-do">02 Services</a> &nbsp;·&nbsp;
+  <a href="#-03--my-work-in-numbers">03 Numbers</a> &nbsp;·&nbsp;
+  <a href="#-04--ctf-challenges-ive-designed">04 CTF</a> &nbsp;·&nbsp;
+  <a href="#-05--toolbox">05 Toolbox</a> &nbsp;·&nbsp;
+  <a href="#-06--certifications">06 Certs</a> &nbsp;·&nbsp;
+  <a href="#-07--currently">07 Now</a> &nbsp;·&nbsp;
+  <a href="#-08--lets-connect">08 Connect</a>
+  </b>
+</p>
+
+<img src="assets/divider.svg" alt="" width="100%">
+
+### 🧬 01 · About me
 
 I'm an **Offensive Security Engineer** with **14+ years in security**, split between **in-house FinTech / financial services**, where a single missed finding can mean real money and regulatory pain, and **security consulting**, where I've run engagements for clients across many industries.
 
 I break things on purpose so attackers can't do it for real: web apps and APIs, Active Directory, internal networks and cloud. Then I help teams fix the root cause, not just the symptom. Consulting taught me to scope fast, work inside tight rules of engagement and write reports that executives and engineers can both act on. My **CISA** and **CISM** background means I can speak to both the engineer fixing the bug and the auditor asking about the control.
 
 ```yaml
+# profile.yaml
+name:         Ankur Vats
+role:         Offensive Security Engineer
+experience:   14+ years · FinTech / financial services + security consulting
 focus:        [penetration testing, red teaming, application security]
-experience:   [FinTech / financial services, security consulting]
 currently:    sharpening OSCP-style tradecraft and studying AI / LLM security
 side_quests:  designing CTF challenges (2020 – 2025)
 ask_me_about: AD attack paths, API security, bridging pentest findings to GRC
+status:       open to conversations ▸ online
 ```
 
----
+<img src="assets/divider.svg" alt="" width="100%">
 
-### 🎯 What I do
+### 🎯 02 · What I do
 
 | Area | What that looks like |
 |---|---|
@@ -39,17 +60,17 @@ ask_me_about: AD attack paths, API security, bridging pentest findings to GRC
 | 🧩 **Security governance** | Turning technical findings into risk language for audit, compliance and leadership |
 | 🤖 **AI security (learning)** | Prompt injection, LLM application threats, ML fundamentals |
 
----
+<img src="assets/divider.svg" alt="" width="100%">
 
-### 📊 My work in numbers
+### 📊 03 · My work in numbers
 
 <p align="center">
   <img src="assets/tech-stack.svg" alt="Tech stack: 21 CTF challenges by category, technologies I build with, and a 2019 to 2026 build timeline" width="100%">
 </p>
 
----
+<img src="assets/divider.svg" alt="" width="100%">
 
-### 🚩 CTF challenges I've designed
+### 🚩 04 · CTF challenges I've designed
 
 Since 2020 I've written original challenges for live Capture The Flag events, each built around one real-world weakness and shipped as a Flask app, C binary or Docker lab.
 
@@ -62,33 +83,21 @@ Since 2020 I've written original challenges for live Capture The Flag events, ea
 | **2021** | CVE-2021-41773 · Solr injection · secret_agent · Greetings · fruit_basket | Real-CVE labs, web logic |
 | **2020** | Solr injection (first edition) | Weak credentials, exposed Apache Solr |
 
----
+<img src="assets/divider.svg" alt="" width="100%">
 
-### 🧰 Toolbox
+### 🧰 05 · Toolbox
 
-<p>
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali Linux">
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite">
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white" alt="Metasploit">
-  <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square" alt="Nmap">
-  <img src="https://img.shields.io/badge/BloodHound-B22222?style=flat-square&logo=hackthebox&logoColor=white" alt="BloodHound">
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark">
-  <img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=flat-square&logo=owasp&logoColor=white" alt="OWASP ZAP">
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell">
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash">
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure">
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logoColor=white" alt="AWS">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes">
-  <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white" alt="Obsidian">
-</p>
+| Layer | Stack |
+|---|---|
+| ⚔️ **Offensive** | <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali Linux"> <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite"> <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white" alt="Metasploit"> <img src="https://img.shields.io/badge/BloodHound-B22222?style=flat-square&logo=hackthebox&logoColor=white" alt="BloodHound"> <img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=flat-square&logo=owasp&logoColor=white" alt="OWASP ZAP"> |
+| 📡 **Recon & traffic** | <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square" alt="Nmap"> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark"> |
+| 💻 **Code & automation** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell"> <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash"> |
+| ☁️ **Cloud & containers** | <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure"> <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logoColor=white" alt="AWS"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"> |
+| 🧠 **Knowledge** | <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white" alt="Obsidian"> |
 
----
+<img src="assets/divider.svg" alt="" width="100%">
 
-### 🏅 Certifications
+### 🏅 06 · Certifications
 
 <p>
   <img src="https://img.shields.io/badge/CISM-ISACA-005EB8?style=for-the-badge" alt="CISM">
@@ -110,21 +119,25 @@ Since 2020 I've written original challenges for live Capture The Flag events, ea
 | 🔎 **Defense & monitoring** | **CNSS**: Certified Network Security Specialist | ICSI |
 | | **IBM QRadar SIEM Foundation** | IBM |
 
----
+<img src="assets/divider.svg" alt="" width="100%">
 
-### 🔭 Currently
+### 🔭 07 · Currently
 
 - 📚 Building a structured offensive-security knowledge base: methodology, checklists and lab write-ups for every phase from recon to domain admin
 - 🧠 Studying **machine learning, deep learning, NLP and reinforcement learning** to get serious about **AI / LLM security**
 - 🎥 Breaking down security concepts in plain language on my YouTube channel, **[The ImmerSec Guy](https://www.youtube.com/@the_ImmerSecGuy)**
 - 🛠️ Writing small automation tools in PowerShell and Python to make my own workflow faster
 
----
+<img src="assets/divider.svg" alt="" width="100%">
 
-### 🤝 Let's connect
+### 🤝 08 · Let's connect
 
 Open to conversations about **offensive security, security consulting, AppSec in financial services, and AI security**.
 The fastest way to reach me is [LinkedIn](https://www.linkedin.com/in/ankurvats/) or [email](mailto:ankurvats.sec@gmail.com).
+
+<p align="center">
+  <a href="#-01--about-me">▲ back to top</a>
+</p>
 
 <p align="center">
   <sub>⚖️ Everything I publish here is for education and authorised testing only.</sub>

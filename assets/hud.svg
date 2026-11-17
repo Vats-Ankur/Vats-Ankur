@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="150" viewBox="0 0 900 150" role="img" aria-label="14+ years in security, 21 CTF challenges built, 9 certifications, FinTech and consulting experience">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070b16"/>
+      <stop offset="1" stop-color="#111a38"/>
+    </linearGradient>
+    <linearGradient id="scan" x1="0" x2="1">
+      <stop offset="0" stop-color="#00e5a0" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#00e5a0" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#00e5a0" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#1d2a4d" stroke-width="0.6" opacity="0.55"/>
+    </pattern>
+    <style>
+      .num { font-family: 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 40px; font-weight: 700; }
+      .lab { font-family: Consolas, 'Courier New', monospace; font-size: 12px; fill: #a8b5cf; letter-spacing: 1.5px; }
+      .tag { font-family: Consolas, 'Courier New', monospace; font-size: 10px; fill: #5d6b8a; letter-spacing: 1px; }
+      .tile { fill: #0b1226; fill-opacity: 0.8; stroke: #1d2a4d; stroke-width: 1; }
+    </style>
+  </defs>
+
+  <rect width="900" height="150" rx="14" fill="url(#bg)"/>
+  <rect width="900" height="150" rx="14" fill="url(#grid)"/>
+
+  <!-- sweeping scan beam -->
+  <rect x="-200" y="0" width="200" height="150" fill="url(#scan)">
+    <animate attributeName="x" from="-200" to="900" dur="5s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Tile helper: corner brackets drawn per tile -->
+  <g>
+    <!-- 1 -->
+    <rect x="20" y="20" width="200" height="110" rx="8" class="tile"/>
+    <path d="M20 38V20H38 M202 20H220V38 M220 112V130H202 M38 130H20V112" fill="none" stroke="#00e5a0" stroke-width="2"/>
+    <text x="40" y="44" class="tag">SYS.01 // EXPERIENCE</text>
+    <text x="40" y="92" class="num" fill="#00e5a0" filter="url(#glow)">14+</text>
+    <text x="40" y="116" class="lab">YEARS IN SECURITY</text>
+
+    <!-- 2 -->
+    <rect x="240" y="20" width="200" height="110" rx="8" class="tile"/>
+    <path d="M240 38V20H258 M422 20H440V38 M440 112V130H422 M258 130H240V112" fill="none" stroke="#5cc8ff" stroke-width="2"/>
+    <text x="260" y="44" class="tag">SYS.02 // DOMAINS</text>
+    <text x="260" y="92" class="num" fill="#5cc8ff" filter="url(#glow)" font-size="30">FinTech</text>
+    <text x="260" y="116" class="lab">+ SECURITY CONSULTING</text>
+
+    <!-- 3 -->
+    <rect x="460" y="20" width="200" height="110" rx="8" class="tile"/>
+    <path d="M460 38V20H478 M642 20H660V38 M660 112V130H642 M478 130H460V112" fill="none" stroke="#c792ea" stroke-width="2"/>
+    <text x="480" y="44" class="tag">SYS.03 // CTF BUILDS</text>
+    <text x="480" y="92" class="num" fill="#c792ea" filter="url(#glow)">21</text>
+    <text x="480" y="116" class="lab">CHALLENGES · 2020–25</text>
+
+    <!-- 4 -->
+    <rect x="680" y="20" width="200" height="110" rx="8" class="tile"/>
+    <path d="M680 38V20H698 M862 20H880V38 M880 112V130H862 M698 130H680V112" fill="none" stroke="#ffb547" stroke-width="2"/>
+    <text x="700" y="44" class="tag">SYS.04 // CREDENTIALS</text>
+    <text x="700" y="92" class="num" fill="#ffb547" filter="url(#glow)">9</text>
+    <text x="700" y="116" class="lab">CERTS · OSCP NEXT</text>
+  </g>
+
+  <!-- status lights -->
+  <g>
+    <circle cx="206" cy="40" r="4" fill="#00e5a0"><animate attributeName="opacity" values="1;0.25;1" dur="1.6s" repeatCount="indefinite"/></circle>
+    <circle cx="426" cy="40" r="4" fill="#5cc8ff"><animate attributeName="opacity" values="1;0.25;1" dur="1.6s" begin="0.4s" repeatCount="indefinite"/></circle>
+    <circle cx="646" cy="40" r="4" fill="#c792ea"><animate attributeName="opacity" values="1;0.25;1" dur="1.6s" begin="0.8s" repeatCount="indefinite"/></circle>
+    <circle cx="866" cy="40" r="4" fill="#ffb547"><animate attributeName="opacity" values="1;0.25;1" dur="1.6s" begin="1.2s" repeatCount="indefinite"/></circle>
+  </g>
+</svg>
