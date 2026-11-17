@@ -68,6 +68,22 @@ status:       open to conversations ▸ online
   <img src="assets/tech-stack.svg" alt="Tech stack: 21 CTF challenges by category, technologies I build with, and a 2019 to 2026 build timeline" width="100%">
 </p>
 
+#### 🛰️ Project deck
+
+<p align="center">
+  <img src="assets/projects.svg" alt="Project deck: Modern Web Application Security book (11 of 24 chapters), Offensive Security Knowledge Base (739 notes), NEXUS Family Command Deck, CTF Challenge Portfolio (21 challenges)" width="100%">
+</p>
+
+| Project | Status | Stack | What it is |
+|---|:-:|---|---|
+| 📘 **Modern Web Application Security** | 🟠 In progress · 11 / 24 chapters | Python · Node.js / Express · Next.js / React · Angular · PHP / Laravel · Java / Spring Boot | A hands-on book where every chapter pairs the concepts with a runnable local lab, with the fixed and vulnerable versions side by side. Findings are mapped to CWE, OWASP and ASVS. |
+| 🧠 **Offensive Security Knowledge Base** | 🟢 Active · 739 notes | Obsidian · Markdown · PowerShell / Bash | My study vault covering AD, red teaming, cloud, Wi-Fi, mobile, OSCP practice and AI learning, auto-synced to GitHub by my **Vault-Sync** tool. |
+| ⬡ **NEXUS · Family Command Deck** | 🔵 Shipped · Nov 2026 | HTML · CSS · JavaScript · Google Apps Script · Python | An always-on family dashboard for an old Android tablet: 7-day calendar timeline, priority reminders, live weather, a Panchang engine for 40+ festivals and scheduled mantras. |
+| 🚩 **CTF Challenge Portfolio** | 🟣 Shipped · 2020 – 2025 | Python / Flask · C · Docker | 21 original challenges for live CTF events. See [section 04](#-04--ctf-challenges-ive-designed). |
+| 🔄 **Learning-Repos sync** | ✅ Shipped | PowerShell · GitHub CLI | Keeps the latest copy of 27 open-source security projects I study, without old forks cluttering my profile. |
+| 🎮 **Tic-Tac-Toe web game** | ✅ Shipped | HTML · CSS · JavaScript | A browser game built with no frameworks. |
+| ✅ **Pentest checklists** | ✅ Shipped | Excel | Consolidated test plans and a container-security checklist I use on engagements. |
+
 <img src="assets/divider.svg" alt="" width="100%">
 
 ### 🚩 04 · CTF challenges I've designed
