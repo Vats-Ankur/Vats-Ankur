@@ -139,6 +139,8 @@ Since 2020 I've written original challenges for live Capture The Flag events, ea
 
 ### 🔭 07 · Currently
 
+- 📘 Writing **Modern Web Application Security**, a 24-chapter hands-on book where every chapter ships a runnable lab with fixed and vulnerable code side by side (11 of 24 chapters done)
+- ⬡ Improving **NEXUS · Family Command Deck**, the always-on family dashboard I built for an old Android tablet, with new layouts and faster calendar sync
 - 📚 Building a structured offensive-security knowledge base: methodology, checklists and lab write-ups for every phase from recon to domain admin
 - 🧠 Studying **machine learning, deep learning, NLP and reinforcement learning** to get serious about **AI / LLM security**
 - 🎥 Breaking down security concepts in plain language on my YouTube channel, **[The ImmerSec Guy](https://www.youtube.com/@the_ImmerSecGuy)**
