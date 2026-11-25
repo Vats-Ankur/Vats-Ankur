@@ -71,11 +71,13 @@ status:       open to conversations ▸ online
 #### 🛰️ Project deck
 
 <p align="center">
-  <img src="assets/projects.svg" alt="Project deck: Modern Web Application Security book (11 of 24 chapters), Offensive Security Knowledge Base (739 notes), NEXUS Family Command Deck, CTF Challenge Portfolio (21 challenges)" width="100%">
+  <img src="assets/projects.svg" alt="Project deck: A.L.I.S.H.A. offline AI assistant and HushType voice typing (new, open source), Modern Web Application Security book (11 of 24 chapters), Offensive Security Knowledge Base (739 notes), NEXUS Family Command Deck, CTF Challenge Portfolio (21 challenges)" width="100%">
 </p>
 
 | Project | Status | Stack | What it is |
 |---|:-:|---|---|
+| 🛰️ **[A.L.I.S.H.A.](https://github.com/Vats-Ankur/ALISHA)** 🆕 | 🔵 Shipped · Nov 2026 · open source | C (ESP-IDF 5.4 · LVGL 9) · Python · Shell · Whisper · Piper · Raspberry Pi 5 · ESP32-S3 | An offline AI voice assistant with a holographic HUD for Kali Linux on a Raspberry Pi 5, with custom ESP32-S3 firmware for the mic, speaker and screen. I built it after finding my API key and Wi-Fi password in plain text in a cloud gadget's flash, so it runs fully local and is hardened with least privilege and a firmware threat model. |
+| 🎙️ **[HushType](https://github.com/Vats-Ankur/hushtype)** 🆕 | 🔵 Shipped · Nov 2026 · open source | Python · whisper.cpp · xdotool · systemd | Private, offline voice typing for Linux: hold a key, talk, and clean text is typed into any window. Removes filler words and spoken corrections, and offers a local socket API that ALISHA uses as her hearing. |
 | 📘 **Modern Web Application Security** | 🟠 In progress · 11 / 24 chapters | Python · Node.js / Express · Next.js / React · Angular · PHP / Laravel · Java / Spring Boot | A hands-on book where every chapter pairs the concepts with a runnable local lab, with the fixed and vulnerable versions side by side. Findings are mapped to CWE, OWASP and ASVS. |
 | 🧠 **Offensive Security Knowledge Base** | 🟢 Active · 739 notes | Obsidian · Markdown · PowerShell / Bash | My study vault covering AD, red teaming, cloud, Wi-Fi, mobile, OSCP practice and AI learning, auto-synced to GitHub by my **Vault-Sync** tool. |
 | ⬡ **NEXUS · Family Command Deck** | 🔵 Shipped · Nov 2026 | HTML · CSS · JavaScript · Google Apps Script · Python | An always-on family dashboard for an old Android tablet: 7-day calendar timeline, priority reminders, live weather, a Panchang engine for 40+ festivals and scheduled mantras. |
@@ -109,6 +111,7 @@ Since 2020 I've written original challenges for live Capture The Flag events, ea
 | 📡 **Recon & traffic** | <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square" alt="Nmap"> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark"> |
 | 💻 **Code & automation** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell"> <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash"> |
 | ☁️ **Cloud & containers** | <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure"> <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logoColor=white" alt="AWS"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"> |
+| 🤖 **Edge AI & hardware** | <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi"> <img src="https://img.shields.io/badge/ESP32--S3-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32-S3"> <img src="https://img.shields.io/badge/Whisper-412991?style=flat-square" alt="Whisper"> <img src="https://img.shields.io/badge/Piper_TTS-0B7285?style=flat-square" alt="Piper TTS"> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C"> |
 | 🧠 **Knowledge** | <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white" alt="Obsidian"> |
 
 <img src="assets/divider.svg" alt="" width="100%">

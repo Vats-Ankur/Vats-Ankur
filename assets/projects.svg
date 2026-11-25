@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="470" viewBox="0 0 900 470" role="img" aria-label="Project deck: Modern Web Application Security book in progress (11 of 24 chapters), offensive security knowledge base with 739 notes, NEXUS family command deck shipped, 21-challenge CTF portfolio shipped, plus Learning-Repos, Vault-Sync, a web game and pentest checklists">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="652" viewBox="0 0 900 652" role="img" aria-label="Project deck: new open-source releases A.L.I.S.H.A. offline AI voice assistant and HushType private voice typing; Modern Web Application Security book in progress (11 of 24 chapters), offensive security knowledge base with 739 notes, NEXUS family command deck shipped, 21-challenge CTF portfolio shipped, plus Learning-Repos, Vault-Sync, a web game and pentest checklists">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#070b16"/>
@@ -30,9 +30,9 @@
     </style>
   </defs>
 
-  <rect width="900" height="470" rx="14" fill="url(#bg)"/>
-  <rect width="900" height="470" rx="14" fill="url(#grid)"/>
-  <rect x="-220" y="0" width="220" height="470" fill="url(#scan)">
+  <rect width="900" height="652" rx="14" fill="url(#bg)"/>
+  <rect width="900" height="652" rx="14" fill="url(#grid)"/>
+  <rect x="-220" y="0" width="220" height="652" fill="url(#scan)">
     <animate attributeName="x" from="-220" to="900" dur="6s" repeatCount="indefinite"/>
   </rect>
 
@@ -41,8 +41,38 @@
   <rect x="218" y="26" width="9" height="16" fill="#00e5a0">
     <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
   </rect>
-  <text x="870" y="38" class="mono small" text-anchor="end">2 in progress · 6 shipped · updated Nov 2026</text>
+  <text x="870" y="38" class="mono small" text-anchor="end">2 in progress · 8 shipped · updated Nov 2026</text>
 
+  <!-- Row 0: new open-source releases -->
+  <!-- Card E: ALISHA -->
+  <rect x="30" y="56" width="410" height="168" rx="10" class="card"/>
+  <path d="M30 74V56H48 M422 56H440V74 M440 206V224H422 M48 224H30V206" fill="none" stroke="#2de0c8" stroke-width="2"/>
+  <circle cx="54" cy="80" r="5" fill="#2de0c8"><animate attributeName="opacity" values="1;0.25;1" dur="1.4s" begin="0.2s" repeatCount="indefinite"/></circle>
+  <text x="66" y="84" class="mono tag" fill="#2de0c8">OPEN SOURCE · SHIPPED NOV 2026</text>
+  <rect x="384" y="70" width="40" height="18" rx="9" fill="#2de0c8" fill-opacity="0.15" stroke="#2de0c8"/>
+  <text x="404" y="83" class="mono tag" fill="#2de0c8" text-anchor="middle">NEW</text>
+  <text x="50" y="110" class="sans title">🛰️ A.L.I.S.H.A. · Offline AI Assistant</text>
+  <text x="50" y="132" class="sans txt">Voice assistant with a holographic HUD on a Raspberry</text>
+  <text x="50" y="148" class="sans txt">Pi 5 (Kali Linux) and custom ESP32-S3 firmware</text>
+  <text x="50" y="174" class="sans txt">Whisper + Piper run locally: no cloud, no API keys</text>
+  <text x="50" y="190" class="sans txt">Hardened: least privilege, CRC-checked serial link</text>
+  <text x="50" y="212" class="sans small">C (ESP-IDF 5.4 · LVGL 9) · Python · Shell · Apache-2.0</text>
+
+  <!-- Card F: HushType -->
+  <rect x="460" y="56" width="410" height="168" rx="10" class="card"/>
+  <path d="M460 74V56H478 M852 56H870V74 M870 206V224H852 M478 224H460V206" fill="none" stroke="#ff9cb0" stroke-width="2"/>
+  <circle cx="484" cy="80" r="5" fill="#ff9cb0"><animate attributeName="opacity" values="1;0.25;1" dur="1.4s" begin="0.55s" repeatCount="indefinite"/></circle>
+  <text x="496" y="84" class="mono tag" fill="#ff9cb0">OPEN SOURCE · SHIPPED NOV 2026</text>
+  <rect x="814" y="70" width="40" height="18" rx="9" fill="#ff9cb0" fill-opacity="0.15" stroke="#ff9cb0"/>
+  <text x="834" y="83" class="mono tag" fill="#ff9cb0" text-anchor="middle">NEW</text>
+  <text x="480" y="110" class="sans title">🎙️ HushType · Private Voice Typing</text>
+  <text x="480" y="132" class="sans txt">Hold a key, talk naturally, and clean text types</text>
+  <text x="480" y="148" class="sans txt">into any app: terminal, browser, editor or chat</text>
+  <text x="480" y="174" class="sans txt">whisper.cpp runs locally: nothing leaves the machine</text>
+  <text x="480" y="190" class="sans txt">Drops fillers and spoken corrections · tested rules</text>
+  <text x="480" y="212" class="sans small">Python · whisper.cpp · Unix-socket API · Apache-2.0</text>
+
+  <g transform="translate(0,182)">
   <!-- Card A: Book (in progress) -->
   <rect x="30" y="56" width="410" height="168" rx="10" class="card"/>
   <path d="M30 74V56H48 M422 56H440V74 M440 206V224H422 M48 224H30V206" fill="none" stroke="#ffb547" stroke-width="2"/>
@@ -98,4 +128,5 @@
   <rect x="30" y="420" width="840" height="34" rx="8" class="card"/>
   <text x="48" y="442" class="mono tag" fill="#00e5a0">ALSO SHIPPED ▸</text>
   <text x="160" y="442" class="sans txt">Learning-Repos sync (27 projects kept current) · Vault-Sync · Tic-Tac-Toe web game · Pentest checklists</text>
+  </g>
 </svg>

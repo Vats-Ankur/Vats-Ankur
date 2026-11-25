@@ -99,8 +99,8 @@
 
     <text x="480" y="254" class="lbl">C / C++</text>
     <rect x="580" y="243" width="150" height="12" rx="6" class="track"/>
-    <rect x="580" y="243" width="50" height="12" rx="6" fill="url(#gPurple)"><animate attributeName="width" from="0" to="50" dur="1.2s" begin="0.9s" fill="freeze"/></rect>
-    <text x="742" y="254" class="val">5 <tspan class="unit">binaries</tspan></text>
+    <rect x="580" y="243" width="60" height="12" rx="6" fill="url(#gPurple)"><animate attributeName="width" from="0" to="60" dur="1.2s" begin="0.9s" fill="freeze"/></rect>
+    <text x="742" y="254" class="val">6 <tspan class="unit">binaries + firmware</tspan></text>
 
     <text x="480" y="282" class="lbl">JavaScript</text>
     <rect x="580" y="271" width="150" height="12" rx="6" class="track"/>
@@ -140,7 +140,7 @@
       <text x="716" y="402" class="yr">2025</text><text x="716" y="446" class="ev">Perrin–Woods</text><text x="716" y="460" class="ev">crypto puzzle</text></g>
     <g><circle cx="820" cy="420" r="7" fill="#c792ea">
         <animate attributeName="r" values="6;9;6" dur="1.6s" repeatCount="indefinite"/></circle>
-      <text x="820" y="402" class="yr" fill="#dcb6f5">2026</text><text x="820" y="446" class="ev">Web-sec book</text><text x="820" y="460" class="ev">NEXUS · 739 notes</text></g>
+      <text x="820" y="402" class="yr" fill="#dcb6f5">2026</text><text x="820" y="446" class="ev">Book · NEXUS</text><text x="820" y="460" class="ev">ALISHA · HushType</text></g>
   </g>
 
   <text x="450" y="498" class="mono" font-size="10.5" fill="#5d6b8a" text-anchor="middle">source: my GitHub repositories · CTF-challenges · labs · automation tools</text>
