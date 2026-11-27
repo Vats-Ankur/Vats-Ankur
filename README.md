@@ -9,6 +9,7 @@
   <a href="https://mastodon.social/@Ankur_Vats" rel="me"><img src="https://img.shields.io/badge/Mastodon-@Ankur__Vats-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon: @Ankur_Vats"></a>
   <a href="https://bsky.app/profile/ankur-vats.bsky.social"><img src="https://img.shields.io/badge/Bluesky-@ankur--vats-1185FE?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky: @ankur-vats.bsky.social"></a>
   <a href="https://www.facebook.com/theImmerSecGuy"><img src="https://img.shields.io/badge/Facebook-The_ImmerSec_Guy-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook: The ImmerSec Guy"></a>
+  <a href="https://www.reddit.com/r/the_ImmerSecGuy/"><img src="https://img.shields.io/badge/Reddit-r%2Fthe__ImmerSecGuy-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit: r/the_ImmerSecGuy"></a>
   <a href="mailto:ankurvats.sec@gmail.com"><img src="https://img.shields.io/badge/Email-ankurvats.sec%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <img src="https://img.shields.io/badge/Based%20in-Boston%2C%20Massachusetts%2C%20USA-00e5a0?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Boston, Massachusetts, USA">
 </p>
@@ -174,6 +175,7 @@ Open to conversations about **offensive security, security consulting, AppSec in
 | <a href="https://www.youtube.com/@the_ImmerSecGuy"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" height="28"></a> | [@the_ImmerSecGuy](https://www.youtube.com/@the_ImmerSecGuy) | Security concepts explained in plain language |
 | <a href="https://www.facebook.com/theImmerSecGuy"><img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" height="28"></a> | [The ImmerSec Guy](https://www.facebook.com/theImmerSecGuy) | Channel updates and new video releases |
 | **Community** | | |
+| <a href="https://www.reddit.com/r/the_ImmerSecGuy/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" height="28"></a> | [r/the_ImmerSecGuy](https://www.reddit.com/r/the_ImmerSecGuy/) | The ImmerSec Guy community: questions, discussion and video follow-ups |
 | <a href="https://x.com/Vats_Ankur452"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" height="28"></a> | [@Vats_Ankur452](https://x.com/Vats_Ankur452) | Quick security takes and industry news |
 | <a href="https://mastodon.social/@Ankur_Vats" rel="me"><img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon" height="28"></a> | [@Ankur_Vats@mastodon.social](https://mastodon.social/@Ankur_Vats) | Infosec community discussion on the fediverse |
 | <a href="https://bsky.app/profile/ankur-vats.bsky.social"><img src="https://img.shields.io/badge/Bluesky-1185FE?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky" height="28"></a> | [@ankur-vats.bsky.social](https://bsky.app/profile/ankur-vats.bsky.social) | Security threads and community conversation |
