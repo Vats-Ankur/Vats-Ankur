@@ -5,6 +5,9 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/ankurvats/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.youtube.com/@the_ImmerSecGuy"><img src="https://img.shields.io/badge/YouTube-The_ImmerSec_Guy-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube: The ImmerSec Guy"></a>
+  <a href="https://x.com/Vats_Ankur452"><img src="https://img.shields.io/badge/X-@Vats__Ankur452-000000?style=for-the-badge&logo=x&logoColor=white" alt="X: @Vats_Ankur452"></a>
+  <a href="https://mastodon.social/@Ankur_Vats" rel="me"><img src="https://img.shields.io/badge/Mastodon-@Ankur__Vats-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon: @Ankur_Vats"></a>
+  <a href="https://www.facebook.com/theImmerSecGuy"><img src="https://img.shields.io/badge/Facebook-The_ImmerSec_Guy-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook: The ImmerSec Guy"></a>
   <a href="mailto:ankurvats.sec@gmail.com"><img src="https://img.shields.io/badge/Email-ankurvats.sec%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <img src="https://img.shields.io/badge/Based%20in-Boston%2C%20Massachusetts%2C%20USA-00e5a0?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Boston, Massachusetts, USA">
 </p>
@@ -155,6 +158,14 @@ Since 2020 I've written original challenges for live Capture The Flag events, ea
 
 Open to conversations about **offensive security, security consulting, AppSec in financial services, and AI security**.
 The fastest way to reach me is [LinkedIn](https://www.linkedin.com/in/ankurvats/) or [email](mailto:ankurvats.sec@gmail.com).
+
+| Channel | Where | What you'll find |
+|---|---|---|
+| 💼 LinkedIn | [ankurvats](https://www.linkedin.com/in/ankurvats/) | Career updates and professional posts |
+| 🎥 YouTube | [The ImmerSec Guy](https://www.youtube.com/@the_ImmerSecGuy) | Security concepts explained in plain language |
+| 𝕏 X | [@Vats_Ankur452](https://x.com/Vats_Ankur452) | Quick security takes and news |
+| 🐘 Mastodon | [@Ankur_Vats@mastodon.social](https://mastodon.social/@Ankur_Vats) | The infosec community on the fediverse |
+| 📘 Facebook | [The ImmerSec Guy](https://www.facebook.com/theImmerSecGuy) | Channel updates and new videos |
 
 <p align="center">
   <a href="#-01--about-me">▲ back to top</a>
