@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ankurvats/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/ankurvats/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D" alt="LinkedIn"></a>
   <a href="https://www.youtube.com/@the_ImmerSecGuy"><img src="https://img.shields.io/badge/YouTube-The_ImmerSec_Guy-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube: The ImmerSec Guy"></a>
   <a href="https://x.com/Vats_Ankur452"><img src="https://img.shields.io/badge/X-@Vats__Ankur452-000000?style=for-the-badge&logo=x&logoColor=white" alt="X: @Vats_Ankur452"></a>
   <a href="https://mastodon.social/@Ankur_Vats" rel="me"><img src="https://img.shields.io/badge/Mastodon-@Ankur__Vats-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon: @Ankur_Vats"></a>
@@ -158,16 +158,27 @@ Since 2020 I've written original challenges for live Capture The Flag events, ea
 ### 🤝 08 · Let's connect
 
 Open to conversations about **offensive security, security consulting, AppSec in financial services, and AI security**.
-The fastest way to reach me is [LinkedIn](https://www.linkedin.com/in/ankurvats/) or [email](mailto:ankurvats.sec@gmail.com).
 
-| Channel | Where | What you'll find |
-|---|---|---|
-| 💼 LinkedIn | [ankurvats](https://www.linkedin.com/in/ankurvats/) | Career updates and professional posts |
-| 🎥 YouTube | [The ImmerSec Guy](https://www.youtube.com/@the_ImmerSecGuy) | Security concepts explained in plain language |
-| 𝕏 X | [@Vats_Ankur452](https://x.com/Vats_Ankur452) | Quick security takes and news |
-| 🐘 Mastodon | [@Ankur_Vats@mastodon.social](https://mastodon.social/@Ankur_Vats) | The infosec community on the fediverse |
-| 🦋 Bluesky | [@ankur-vats.bsky.social](https://bsky.app/profile/ankur-vats.bsky.social) | Security threads and community chat |
-| 📘 Facebook | [The ImmerSec Guy](https://www.facebook.com/theImmerSecGuy) | Channel updates and new videos |
+<p align="center">
+  <b>Fastest way to reach me</b><br><br>
+  <a href="https://www.linkedin.com/in/ankurvats/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D" alt="LinkedIn" height="28"></a>
+  <a href="mailto:ankurvats.sec@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="28"></a>
+</p>
+
+| Platform | Profile | What I share there |
+|:--|:--|:--|
+| **Professional** | | |
+| <a href="https://www.linkedin.com/in/ankurvats/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D" alt="LinkedIn" height="28"></a> | [in/ankurvats](https://www.linkedin.com/in/ankurvats/) | Career updates, professional posts and direct messages |
+| <a href="mailto:ankurvats.sec@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="28"></a> | [ankurvats.sec@gmail.com](mailto:ankurvats.sec@gmail.com) | Consulting enquiries and collaboration requests |
+| **Content** | | |
+| <a href="https://www.youtube.com/@the_ImmerSecGuy"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" height="28"></a> | [@the_ImmerSecGuy](https://www.youtube.com/@the_ImmerSecGuy) | Security concepts explained in plain language |
+| <a href="https://www.facebook.com/theImmerSecGuy"><img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" height="28"></a> | [The ImmerSec Guy](https://www.facebook.com/theImmerSecGuy) | Channel updates and new video releases |
+| **Community** | | |
+| <a href="https://x.com/Vats_Ankur452"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" height="28"></a> | [@Vats_Ankur452](https://x.com/Vats_Ankur452) | Quick security takes and industry news |
+| <a href="https://mastodon.social/@Ankur_Vats" rel="me"><img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon" height="28"></a> | [@Ankur_Vats@mastodon.social](https://mastodon.social/@Ankur_Vats) | Infosec community discussion on the fediverse |
+| <a href="https://bsky.app/profile/ankur-vats.bsky.social"><img src="https://img.shields.io/badge/Bluesky-1185FE?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky" height="28"></a> | [@ankur-vats.bsky.social](https://bsky.app/profile/ankur-vats.bsky.social) | Security threads and community conversation |
+
+<sub>Platform names and logos are trademarks of their respective owners and are used here only to link to my profiles.</sub>
 
 <p align="center">
   <a href="#-01--about-me">▲ back to top</a>
